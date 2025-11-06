@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+faiss-cpu
+sentence-transformers
+langchain-text-splitters
+transformers
+torch
+supabase
